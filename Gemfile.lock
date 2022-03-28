@@ -2,15 +2,12 @@ PATH
   remote: .
   specs:
     dependabot_test (0.1.0)
-      activemodel (>= 6, <= 7)
       activesupport
       google-cloud-datastore (~> 2)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    activemodel (7.0.0)
-      activesupport (= 7.0.0)
     activesupport (7.0.0)
       concurrent-ruby (~> 1.0, >= 1.0.2)
       i18n (>= 1.6, < 2)
