@@ -149,7 +149,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  activemodel (>= 6.1)
   dependabot_test!
   pry
   rake (~> 13.0)
