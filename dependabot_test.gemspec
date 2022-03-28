@@ -31,7 +31,6 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
 
   # Uncomment to register a new dependency of your gem
-  spec.add_runtime_dependency "activemodel", ">= 6", "<= 7"
   spec.add_runtime_dependency "activesupport"
   spec.add_runtime_dependency "google-cloud-datastore", "~> 2"
 
